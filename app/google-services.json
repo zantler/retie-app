@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093648849844",
+    "project_id": "retie-90d3c",
+    "storage_bucket": "retie-90d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093648849844:android:228b3ddcf57ccccbc7b0e1",
+        "android_client_info": {
+          "package_name": "com.retie.retieApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxhODJax5QsedWa5CFVdWXk734cJ7GnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
