@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-  
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/app_logo"
+        android:title="@string/inicio" />
+
+    <item
+        android:id="@+id/nav_caps"
+        android:icon="@drawable/app_logo"
+        android:title="@string/capitulos" />
+
+    <item
+        android:id="@+id/nav_titles"
+        android:icon="@drawable/app_logo"
+        android:title="@string/titulos" />
+
+    <item
+        android:id="@+id/nav_articles"
+        android:icon="@drawable/app_logo"
+        android:title="@string/articulos" />
 </menu>

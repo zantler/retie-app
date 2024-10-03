@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">RETIEE APP</string>
+    <string name="app_name">RETIE APP</string>
+    <string name="app_description">App Logo</string>
+    <string name="articulos">Articulos</string>
+    <string name="titulos">Titulos</string>
+    <string name="capitulos">Capitulos</string>
+    <string name="inicio">Inicio</string>
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+    <string name="night_mode">Modo Oscuro</string>
+    <string name="day_mode">Modo Claro</string>
+    <string name="nav_mode">Modo</string>
 </resources>
